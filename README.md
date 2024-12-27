@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/d14a6962-5bfb-4cf9-9ab7-ad30e11e26fe
+
 ## Getting started
 
 To get started, follow these steps:
@@ -7,6 +10,7 @@ To get started, follow these steps:
 3. Start the development server with `npm run dev`
 
 ### Additional commands
+
 
 - `npm run db:reset` to reset the database to the initial state
 - `npm run db:seed` to seed the database
